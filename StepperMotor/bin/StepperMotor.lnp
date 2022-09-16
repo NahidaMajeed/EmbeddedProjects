@@ -1,0 +1,6 @@
+"..\bin\STARTUP.obj",
+"..\bin\main.obj",
+"..\bin\stepper.obj",
+"..\bin\delay.obj" 
+TO "..\bin\StepperMotor" 
+PRINT(".\Listings\StepperMotor.m51") CODE( 0X0000-0X0FFF )

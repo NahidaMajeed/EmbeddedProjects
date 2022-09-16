@@ -1,0 +1,6 @@
+"..\bin\STARTUP.obj",
+"..\bin\main.obj",
+"..\bin\delay.obj",
+"..\bin\lcd.obj" 
+TO "..\bin\LcdTrail" 
+PRINT(".\Listings\LcdTrail.m51")

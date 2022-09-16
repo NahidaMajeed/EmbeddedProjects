@@ -1,0 +1,4 @@
+"..\bin\STARTUP.obj",
+"..\bin\main.obj" 
+TO "..\bin\switchAndMotor" 
+PRINT(".\Listings\switchAndMotor.m51")
