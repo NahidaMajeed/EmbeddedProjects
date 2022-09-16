@@ -1,0 +1,4 @@
+"..\bin\STARTUP.obj",
+"..\bin\main.obj" 
+TO "..\bin\LedSwitchToggle" 
+PRINT(".\Listings\LedSwitchToggle.m51")

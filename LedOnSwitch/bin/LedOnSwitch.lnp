@@ -1,0 +1,4 @@
+"..\bin\STARTUP.obj",
+"..\bin\main.obj" 
+TO "..\bin\LedOnSwitch" 
+PRINT(".\Listings\LedOnSwitch.m51")
