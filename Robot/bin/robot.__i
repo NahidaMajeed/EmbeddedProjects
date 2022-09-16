@@ -1,1 +1,0 @@
-"..\src\robot.c" OPTIMIZE (0,SPEED) BROWSE INCDIR(..\include) DEBUG OBJECTEXTEND PRINT(.\Listings\robot.lst) TABS (2) OBJECT(..\bin\robot.obj)

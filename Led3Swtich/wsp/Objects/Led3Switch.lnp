@@ -1,4 +1,0 @@
-".\Objects\STARTUP.obj",
-".\Objects\main.obj" 
-TO ".\Objects\Led3Switch" 
-PRINT(".\Listings\Led3Switch.m51")

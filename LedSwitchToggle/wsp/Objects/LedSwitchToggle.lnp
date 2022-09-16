@@ -1,4 +1,0 @@
-".\Objects\STARTUP.obj",
-".\Objects\main.obj" 
-TO ".\Objects\LedSwitchToggle" 
-PRINT(".\Listings\LedSwitchToggle.m51")

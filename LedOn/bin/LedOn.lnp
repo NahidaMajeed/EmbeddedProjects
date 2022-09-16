@@ -1,4 +1,0 @@
-"..\bin\STARTUP.obj",
-"..\bin\main.obj" 
-TO "..\bin\LedOn" 
-PRINT(".\Listings\LedOn.m51")

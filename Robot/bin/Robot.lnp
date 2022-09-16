@@ -1,5 +1,0 @@
-"..\bin\STARTUP.obj",
-"..\bin\main.obj",
-"..\bin\robot.obj" 
-TO "..\bin\Robot" 
-PRINT(".\Listings\Robot.m51") CODE( 0X0000-0X0FFF )
