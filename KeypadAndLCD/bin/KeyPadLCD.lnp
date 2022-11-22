@@ -1,0 +1,7 @@
+"..\bin\STARTUP.obj",
+"..\bin\delay.obj",
+"..\bin\lcd.obj",
+"..\bin\main.obj",
+"..\bin\mkeys.obj" 
+TO "..\bin\KeyPadLCD" 
+PRINT(".\Listings\KeyPadLCD.m51") CODE( 0X0000-0X0FFF )
