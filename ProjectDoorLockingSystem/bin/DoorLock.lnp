@@ -1,0 +1,8 @@
+"..\bin\STARTUP.obj",
+"..\bin\delay.obj",
+"..\bin\lcd.obj",
+"..\bin\mkeys.obj",
+"..\bin\main.obj",
+"..\bin\stepper.obj" 
+TO "..\bin\DoorLock" 
+PRINT(".\Listings\DoorLock.m51")
